@@ -16,7 +16,7 @@ hide_streamlit_style = """
             footer {visibility: hidden;}
 
 
-	    .viewerBadge_container__1QSob {visiblity: hidden;}
+	    a {visiblity: hidden;}
 
 
 
